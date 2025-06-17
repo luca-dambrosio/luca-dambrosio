@@ -20,6 +20,7 @@ Thank you for visiting my profile. I look forward to connecting with you!
 | Project | Description | Key Findings | Skills Demonstrated |
 |---------|-------------|--------------|----------------------|
 | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/luca-dambrosio/network_analysis_israel_palestine) | Analyzed 600k+ Reddit interactions on the Israel-Palestine conflict | Found that polarization decreased after the conflict onset, suggesting moderated forums may foster dialogue. | Network analysis, topic modeling, transformer-based NLP |
+| [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/luca-dambrosio/probit-heart-disease-analysis) | Developed frequentist and Bayesian Probit models to estimate heart disease risk using the SAheart dataset | LDL cholesterol increases CHD risk by ~3%; family history by ~15.5%, based on marginal effects | Fisher Scoring, Gibbs sampling, Bayesian inference, custom GLM implementation |
 | | Trained a model to predict the year and type of construction of buildings in the Lombardy region| Achieving a mean average error of 84 years, the model focuses on structural elements of the building like its windows | Finetuned a CNN model, Scraping |
 
 ---
