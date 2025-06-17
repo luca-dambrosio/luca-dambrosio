@@ -25,6 +25,8 @@ Thank you for visiting my profile. I look forward to connecting with you!
 | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/luca-dambrosio/network_analysis_israel_palestine) | Analyzed 600k+ Reddit interactions on the Israel-Palestine conflict | Found that polarization decreased after the conflict onset, suggesting moderated forums may foster dialogue. | Network analysis, topic modeling, transformer-based NLP |
 | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/luca-dambrosio/building-age-prediction-lombardy) | Trained a model to predict the year and type of construction of buildings in the Lombardy region | Achieved a mean average error of 84 years; window structure emerged as a strong predictor | CNN finetuning, data scraping, computer vision |
 | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/luca-dambrosio/grammy-impact-review-analysis) | Analyzed how winning a Grammy affects public sentiment, rating, and popularity using RYM reviews | Found Grammy wins boost review volume; sentiment impact varies by genre | Sentiment classification, causal inference, Selenium scraping, panel data |
+| [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/luca-dambrosio/asset-selection-ml-predictive-portfolios) | Trained ML models to select top stocks from factor datasets and simulate monthly portfolios | Regression-based portfolios outperformed market benchmarks; Sharpe ratio up to 2.6 | Financial ML, XGBoost, neural nets, portfolio simulation |
+
 
 
 ---
